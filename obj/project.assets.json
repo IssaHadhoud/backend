@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mohammad/Desktop/backend/backend/backend.csproj",
+      "projectUniqueName": "/home/mohammad/Desktop/backend/backend.csproj",
       "projectName": "backend",
-      "projectPath": "/home/mohammad/Desktop/backend/backend/backend.csproj",
+      "projectPath": "/home/mohammad/Desktop/backend/backend.csproj",
       "packagesPath": "/home/mohammad/.nuget/packages/",
-      "outputPath": "/home/mohammad/Desktop/backend/backend/obj/",
+      "outputPath": "/home/mohammad/Desktop/backend/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/mohammad/.nuget/NuGet/NuGet.Config"
