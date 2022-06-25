@@ -2,9 +2,9 @@ namespace backend.Model
 {
     public class Cart
     {
-       private int ID;
-       private string Name;
-       private int Quantity;
-       
+        public int ID { get; set; }
+        public string Name { get; set; }
+        public double Price { get; set; }
+
     }
 }
